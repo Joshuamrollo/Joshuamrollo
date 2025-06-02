@@ -1,6 +1,5 @@
-yo
+yo, I like databases
 
-I like databases
+blog - [joshuamrollo.substack.com](https://joshuamrollo.substack.com/)
 
-heres my blog - [joshuamrollo.substack.com](https://joshuamrollo.substack.com/)
-and my email - joshuamrollo@gmail.com
+email - joshuamrollo@gmail.com
