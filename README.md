@@ -1,3 +1,3 @@
-yo, I like database management systems
+yo :)
 
 email - joshuamrollo@gmail.com
